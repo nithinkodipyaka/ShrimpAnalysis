@@ -75,7 +75,7 @@
 ## 📚 Reference
 
 Detailed report and literature review can be found in:  
-📄 [`Final Review.pdf`](https://github.com/nithinkodipyaka/ShrimpAnalysis/blob/main/Final%20Review.pdf)
+📄 [`Project Report.pdf`](https://github.com/nithinkodipyaka/ShrimpAnalysis/blob/main/Project%20Report.pdf)
 
 ---
 
