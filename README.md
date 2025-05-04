@@ -1,4 +1,4 @@
-# 🦐 ShrimpAnalysis: Acoustic Detection of Shrimp Feeding Behavior in Noisy Aquatic Environments
+# 🦐 Shrimp Feeding Behaviour Analysis In Complex Aquatic Audio Environments
 
 > *"Feeding insights beneath the waves—powered by audio, enhanced by science."*
 
