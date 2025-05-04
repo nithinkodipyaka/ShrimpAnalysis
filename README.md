@@ -8,6 +8,8 @@
 
 ---
 
+![Shrimp Analysis Visualization](Images/Audio Analysis and Noise Detection Process.png)
+
 ## 🎯 Objectives
 
 - Detect shrimp snaps and feeding events from real underwater recordings  
