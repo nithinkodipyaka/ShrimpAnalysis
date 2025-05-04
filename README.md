@@ -8,7 +8,7 @@
 
 ---
 
-![Shrimp Analysis Visualization](Images/Audio Analysis and Noise Detection Process.png)
+![Shrimp Analysis Visualization](Images/Audio_Analysis_and_Noise_Detection_Process.png)
 
 ## 🎯 Objectives
 
