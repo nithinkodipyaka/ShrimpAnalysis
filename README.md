@@ -8,7 +8,7 @@
 
 ---
 
-![Audio Analysis and Noise Detection Process](Images/Audio_Analysis_and_Noise_Detection_Process.png)
+![Audio Analysis and Noise Detection Process](Images/Audio_Analysis_and_Noise_Detection_Proces.png)
 
 ## 🎯 Objectives
 
